@@ -1,4 +1,6 @@
 # jsd
+- JupyterHub-Slurm-Docker
+
 Spawning single user server using Slurm and Docker on JupyterHub.
 
 ### Resources used:
